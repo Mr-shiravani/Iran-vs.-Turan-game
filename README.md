@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 
 # ⚔️ جنگ پهلوانان | War of Heroes
 
@@ -246,7 +246,8 @@ python main.py
 * در توسعه پروژه مشارکت نمایید.
 
 ---
-# 📜 مجوز
+
+## 📜 مجوز
 
 این پروژه برای استفاده و توسعه آزاد منتشر شده است. ذکر منبع و حفظ نام پروژه موجب خوشحالی ما خواهد بود.
 
@@ -258,15 +259,10 @@ python main.py
 
 ساخته شده با ❤️ برای دوستداران شاهنامه، اسطوره‌های ایرانی و بازی‌های نقش‌آفرینی
 
-
-
-
 ⭐ فراموش نکنید به پروژه Star بدهید.
 
 ![Repo Size](https://img.shields.io/github/repo-size/Mr-shiravani/Iran-vs.-Turan-game)
 ![Stars](https://img.shields.io/github/stars/Mr-shiravani/Iran-vs.-Turan-game?style=social)
 ![Forks](https://img.shields.io/github/forks/Mr-shiravani/Iran-vs.-Turan-game?style=social)
+
 </div>
-
-
-
