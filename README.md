@@ -211,7 +211,7 @@ python main.py
 ├── requirements.txt       # وابستگی‌ها
 ├── .env.example           # تنظیمات نمونه
 ├── .gitignore
-└── backups/               # فایل‌های بکاپ
+└── backups/               # فایل‌های بکاپ / خودکار ساخته میشه
 ```
 
 ---
